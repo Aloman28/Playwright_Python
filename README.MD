@@ -1,4 +1,5 @@
 ![Playwright Tests](https://github.com/Aloman28/Playwright_Python/actions/workflows/playwright.yml/badge.svg)
+🚧 Work in progress — Py test suite being built out
 
 ### Objective
 
